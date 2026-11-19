@@ -4,8 +4,8 @@ import java.util.Scanner;
 import java.util.ArrayList;
 import java.time.*;
 
+public class FileParser {
 
-public class fileparser {
     public static void main(String[] args) {
         //movies
         File movies = new File("movies.txt");
